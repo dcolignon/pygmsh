@@ -13,7 +13,7 @@
 </p>
 
 [Gmsh](https://gmsh.info/) is a powerful mesh generation tool with a
-scripting language that is notoriously hard to write.
+scripting language that is notoriously hard to write. (Dave: come on, not so hard...)
 
 The goal of pygmsh is to combine the power of Gmsh with the versatility of
 Python and to provide useful abstractions from the Gmsh scripting language
